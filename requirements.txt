@@ -1,5 +1,0 @@
-ocrmypdf
-pytesseract
-opencv-python
-pdf2image
-pymupdf
